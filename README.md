@@ -8,7 +8,7 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) para clientes. Ele foi
 
 Primeiro, clone o repositório do projeto para sua máquina local usando o comando abaixo:
 
-git clone https://github.com/Luany99/CrudCustomers.git
+`git clone https://github.com/Luany99/CrudCustomers.git`
 
 ### 2. Abrir o projeto
 
@@ -30,7 +30,7 @@ Se você optar por baixar o arquivo zipado, siga os seguintes passos:
 
 Abra o console do NuGet Package Manager e execute o seguinte comando para atualizar o banco de dados com a migration já criada:
 
-update-database
+`update-database`
 
 ### 5. Tecnologias Utilizadas
 
